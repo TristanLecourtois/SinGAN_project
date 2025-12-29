@@ -19,8 +19,8 @@ In addition to reproducing the original SinGAN framework, this project explores 
 ## Key Contributions
 
 - Re-implementation of the original **SinGAN** architecture  
-- Study of **hyperparameters** (scaling factor, padding, number of scales)   
-- **Replacement of discriminators** with alternative loss functions:
+- Study of hyperparameters (scaling factor, padding, number of scales)   
+- Replacement of discriminators with alternative loss functions:
   - Fréchet Distance Loss
   - Nearest Neighbor Patch Loss (NNPL)
   - Aligned NN Patch Loss
