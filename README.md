@@ -9,7 +9,7 @@ The project was developed in the context of the "MVA : Deep Learning" course and
 SinGAN learns the *internal patch statistics* of a single image by training a pyramid of generators at multiple scales.  
 Each generator refines the output of the previous (coarser) scale using injected noise.
 
-In addition to reproducing the original SinGAN framework, this project explores substitute discriminator losses** that remove the need for an explicit discriminator network.
+In addition to reproducing the original SinGAN framework, this project explores substitute discriminator losses that remove the need for an explicit discriminator network.
 
 ## Key Contributions
 
